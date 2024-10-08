@@ -52,6 +52,15 @@ This document provides step-by-step instructions for installing and setting up t
    - At the bottom, in the **Custom Fields** section, enter the price of the product in the **price** field.
    - Click **Publish** to save the product.
 
+## Adding a QR Menu Navigation
+
+To add a menu with links to the QR Menu categories on the page, follow these steps:
+
+1. Go to `Appearance -> Menus` in WordPress and create a new menu.
+2. Select "Custom Links" to add a new menu item.
+3. In the **URL** field, add the SEO-friendly category name prefixed with `#`. For example, if the category is "Hot Meals," the URL should be `#hot-meals`.
+4. Add the menu items and save.
+
 ## Conclusion
 
 You have successfully installed the theme and configured the QR Menu plugin. Your WordPress site should now be set up with the desired functionality.
